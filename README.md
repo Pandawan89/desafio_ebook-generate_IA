@@ -26,11 +26,12 @@ Projeto com o objetivo de gerar um ebook digital utilizando as facilidades das f
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via ChatGPT
 
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
 - Ebook gerado durante as aulas em `output`
+  
 
 ![Capa do Ebook](assets/capaebook.png)
