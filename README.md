@@ -5,7 +5,7 @@
 Projeto com o objetivo de gerar um ebook digital utilizando as facilidades das ferramentas de IA. Todos os prompts seguem abaixo.
 
 ## 📕 Clique aqui para ler
-[Acesse o ebook](output/Projeto EBOOK Gerado por IA.pdf)
+[Acesse o ebook](output/ProjetoEBOOKGeradoporIA.pdf)
 
 ## 💻 Tecnologias utilizadas no projeto
 
