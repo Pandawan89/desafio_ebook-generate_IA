@@ -1,4 +1,4 @@
-# Desafio Ebook Generate IA
+# Desafio Ebook Gerado por IA
 
 ℹ️ **NOTA:** Este é o repositório desenvolvido como desafio durante o curso na plataforma da DIO.
 
