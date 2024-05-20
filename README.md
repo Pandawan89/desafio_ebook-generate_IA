@@ -35,3 +35,6 @@ Projeto com o objetivo de gerar um ebook digital utilizando as facilidades das f
   
 
 ![Capa do Ebook](assets/capaebook.png)
+
+
+Com 💜 por Eliane Barros
